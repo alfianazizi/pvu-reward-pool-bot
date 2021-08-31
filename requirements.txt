@@ -1,0 +1,5 @@
+dnspython
+discord.py
+discord-py-slash-command
+python-dotenv
+bscscan-python
